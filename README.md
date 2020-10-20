@@ -1,6 +1,6 @@
 ## Administrador citas
 
-This project consist in a mettings hospital admnistrator developed with react in a course taken by me.
+This project consist in a appointments administrator in a hospital developed with react in a course taken by me about React.
 
 ### Functions
 In this web aplicattion you can:
